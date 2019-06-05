@@ -1,4 +1,4 @@
-setwd("C:/YeshivaUniversity/ClassesSpring2019/Bus.Intel.And.Consumer.Insight/Homework/Project")
+
 dataset <- read.csv("hmeq.csv")
 training <- read.csv("training.csv")
 testing <- read.csv("testing.csv")
